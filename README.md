@@ -1,9 +1,9 @@
 # Bulk File Renamer
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=for-the-badge)](https://github.com/YOUR_USERNAME/bulk-file-renamer)
-[![License](https://img.shields.io/github/license/YOUR_USERNAME/bulk-file-renamer?style=for-the-badge)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/bulk-file-renamer?style=for-the-badge)](https://github.com/YOUR_USERNAME/bulk-file-renamer/stargazers)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=for-the-badge)](https://github.com/WShehab/Bulk-File-Rename)
+[![License](https://img.shields.io/github/license/WShehab/Bulk-File-Rename?style=for-the-badge)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/WShehab/Bulk-File-Rename?style=for-the-badge)](https://github.com/WShehab/Bulk-File-Rename/stargazers)
 
 A desktop utility for batch-renaming files using regex patterns. Built with Python and CustomTkinter.
 
@@ -26,8 +26,8 @@ A desktop utility for batch-renaming files using regex patterns. Built with Pyth
 ## Usage
 
 ```bash
-git clone https://github.com/WShehab/bulk-file-renamer
-cd bulk-file-renamer
+git clone https://github.com/WShehab/Bulk-File-Rename
+cd Bulk-File-Rename
 python bulk_renamer.py
 ```
 
