@@ -26,7 +26,7 @@ A desktop utility for batch-renaming files using regex patterns. Built with Pyth
 ## Usage
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bulk-file-renamer
+git clone https://github.com/WShehab/bulk-file-renamer
 cd bulk-file-renamer
 python bulk_renamer.py
 ```
